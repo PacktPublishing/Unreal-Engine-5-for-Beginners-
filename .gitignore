@@ -1,0 +1,27 @@
+# Build artifacts
+Binaries/
+Build/
+
+# Intermediate files
+Intermediate/
+
+# Saved data
+Saved/
+DerivedDataCache/
+
+# Generated project files (Visual Studio, XCode, etc.)
+*.sln
+*.suo
+*.user
+*.vcxproj
+*.xcworkspace
+*.xcodeproj
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+
+# Platform-specific files
+.DS_Store
+Thumbs.db
