@@ -1,0 +1,13 @@
+This project makes use of character models, textures, and animations obtained from Adobe Mixamo.
+
+* The Mixamo assets are imported into Unreal Engine and included here only as embedded project assets.
+
+* According to Adobe’s official FAQ, Mixamo content is royalty-free and may be used in personal, academic, and commercial projects, including video games (Mixamo FAQ – Adobe Help
+ https://helpx.adobe.com/creative-cloud/faq/mixamo-faq.html?utm_source=chatgpt.com).
+
+* However, under Adobe’s General Terms of Use, the original downloaded .fbx files, textures, or animations may not be redistributed or extracted as standalone assets. Assets must be embedded in a project or end product and not offered on their own (Adobe Terms of Use https://www.adobe.com/legal/terms.html?utm_source=chatgpt.com).
+
+* These assets are provided here solely as part of this Unreal Engine demo/game. They may not be reused, resold, or repackaged separately.
+
+* If you wish to obtain original Mixamo content, please download it directly from Mixamo.com
+.
