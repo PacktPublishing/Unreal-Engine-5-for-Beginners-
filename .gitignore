@@ -1,13 +1,18 @@
 # Build artifacts
 Binaries/
 Build/
+Pangaea/Binaries/
+Pangaea/Build/
 
 # Intermediate files
 Intermediate/
+Pangaea/Intermediate/
 
 # Saved data
 Saved/
 DerivedDataCache/
+Pangaea/Saved/
+Pangaea/DerivedDataCache/
 
 # Generated project files (Visual Studio, XCode, etc.)
 *.sln
@@ -16,12 +21,24 @@ DerivedDataCache/
 *.vcxproj
 *.xcworkspace
 *.xcodeproj
+Pangaea/*.sln
+Pangaea/*.suo
+Pangaea/*.user
+Pangaea/*.vcxproj
+Pangaea/*.xcworkspace
+Pangaea/*.xcodeproj
+
 
 # Temporary files
 *.tmp
 *.log
 *.bak
+Pangaea/*.tmp
+Pangaea/*.log
+Pangaea/*.bak
 
 # Platform-specific files
 .DS_Store
 Thumbs.db
+Pangaea/.DS_Store
+Pangaea/Thumbs.db
