@@ -7,17 +7,6 @@ A step-by-step guide to building your first playable third-person action game
 </h2>
 <p align="center">by Zhenyu George Li (Author), Charles Shih-I Yeh (Author), Michael Oakes (Author)</p>
 
-<details open>
-  <summary><h2>Important Note to Use this Repo</summary>
-   <p>This book is structured so that Chapters 1 through 7 introduce the essential knowledge needed to create a basic action game in Unreal Engine. Starting with Chapter 3, each chapter’s starting branch is nearly identical to the completed branch from the previous chapter. For example, the Chapter05 and Chapter06-Start branches contain essentially the same project.
-
-Beginning with Chapter 8, you will apply what you learned in Chapters 1 through 7 to build a complete game. Therefore, the Chapter08-Start branch is not identical to the completed Chapter07 branch. In addition to introducing new enemy characters, the Chapter08-Start branch includes fixes for several minor issues.
-
-We recommend using the corresponding Start branch at the beginning of each chapter. For example, when starting Chapter 3, use the Chapter03-Start branch. After completing the chapter, your project should match the content of the completed Chapter03 branch. When you move on to Chapter 4, you can switch directly to the Chapter04-Start branch and continue following the instructions. If you encounter any problems during development, you can also download the completed Chapter03 branch separately and compare it with the changes you made while working through Chapter 3.
-
-If you have been using the same practice branch throughout Chapters 1 through 7, make sure you switch to the Chapter08-Start branch before beginning Chapter 8. Alternatively, download the Chapter08-Start branch into a separate local folder and use it to continue reading and practicing how to integrate the different features of the Unreal Engine project.</p> 
-</details>
-
 <details open> 
   <summary><h2>What is this repository for?</summary>
 <p>
@@ -28,6 +17,17 @@ Branches in this repository match the book's chapter content. Each chapter, exce
 Readers can download the Start branch at the beginning of a new chapter and follow the instructions in the book. The Complete branch can be used as a reference and to evaluate learning progress.
 All required assets are placed in the */Pangaea\_Assets* folder, including 3D models, animations, textures, audio files, and more.     
 </p>    
+</details>
+
+<details open>
+  <summary><h2>Important Note to Use this Repo</summary>
+   <p>This book is structured so that Chapters 1 through 7 introduce the essential knowledge needed to create a basic action game in Unreal Engine. Starting with Chapter 3, each chapter’s starting branch is nearly identical to the completed branch from the previous chapter. For example, the Chapter05 and Chapter06-Start branches contain essentially the same project.
+
+Beginning with Chapter 8, you will apply what you learned in Chapters 1 through 7 to build a complete game. Therefore, the Chapter08-Start branch is not identical to the completed Chapter07 branch. In addition to introducing new enemy characters, the Chapter08-Start branch includes fixes for several minor issues.
+
+We recommend using the corresponding Start branch at the beginning of each chapter. For example, when starting Chapter 3, use the Chapter03-Start branch. After completing the chapter, your project should match the content of the completed Chapter03 branch. When you move on to Chapter 4, you can switch directly to the Chapter04-Start branch and continue following the instructions. If you encounter any problems during development, you can also download the completed Chapter03 branch separately and compare it with the changes you made while working through Chapter 3.
+
+If you have been using the same practice branch throughout Chapters 1 through 7, make sure you switch to the Chapter08-Start branch before beginning Chapter 8. Alternatively, download the Chapter08-Start branch into a separate local folder and use it to continue reading and practicing how to integrate the different features of the Unreal Engine project.</p> 
 </details>
 
 <details open> 
