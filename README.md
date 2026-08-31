@@ -27,7 +27,7 @@ Beginning with Chapter 8, you will apply what you learned in Chapters 1 through 
 
 We recommend using the corresponding Start branch at the beginning of each chapter. For example, when starting Chapter 3, use the Chapter03-Start branch. After completing the chapter, your project should match the content of the completed Chapter03 branch. When you move on to Chapter 4, you can switch directly to the Chapter04-Start branch and continue following the instructions. If you encounter any problems during development, you can also download the completed Chapter03 branch separately and compare it with the changes you made while working through Chapter 3.
 
-If you have been using the same practice branch throughout Chapters 1 through 7, make sure you switch to the Chapter08-Start branch before beginning Chapter 8. Alternatively, download the Chapter08-Start branch into a separate local folder and use it to continue reading and practicing how to integrate the different features of the Unreal Engine project.</p> 
+**If you have been using the same practice branch throughout Chapters 1 through 7, make sure you switch to the Chapter08-Start branch before beginning Chapter 8. Alternatively, download the Chapter08-Start branch into a separate local folder and use it to continue reading and practicing how to integrate the different features of the Unreal Engine project.**</p> 
 </details>
 
 <details open> 
